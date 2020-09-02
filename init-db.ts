@@ -3,7 +3,7 @@ import {COURSES, findLessonsForCourse} from './db-data';
 
 import * as firebase from 'firebase';
 
-var config = {
+var config = { it will changr
   apiKey: "AIzaSyDAdoefqX5OqjkD3BkW25ZAL6XYZMo4Vz8",
   authDomain: "fir-course-17549.firebaseapp.com",
   databaseURL: "https://fir-course-17549.firebaseio.com",
